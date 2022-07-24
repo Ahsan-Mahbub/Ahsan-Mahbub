@@ -1,22 +1,20 @@
 ![https://wallpapercave.com/wp/wp9641893.jpg](https://wallpapercave.com/wp/wp9641893.jpg)
 
 <h1 align="center">Hi 👋, I'm Ahsan Mahbub Jubair</h1>
-<h3 align="center">A passionate Frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
 
 ### ![man_teacher](https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f3eb.png)  About Me
 
-I am a passionate computer science Student. I have been learning programming languages, web development, and computer science-related subjects. I am a Frontend developer and passionate about programming. I am strongly committed to being a solid software engineer and developing efficient software systems. I am interested in building excellent software that improves the lives of those around me, I am spending much time improving my web development skills. Every day I want to learn something new and share my knowledge.
+I am a passionate Computer Science Student. I have been learning Programming Languages, Web Design, Web Development, and Computer Science related subjects. I am a Full Stack Developer and passionate about programming. I am strongly committed to being a solid software engineer and developing efficient software systems. I am interested in building excellent software that improves the lives of those around me, I am spending much time improving my web development skills. Every day I want to learn something new and share my knowledge.
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with Me:</h3>
 <p align="left">
-<a href="https://dev.to/mrjahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mrjahid" height="30" width="40" /></a>
-<a href="https://twitter.com/mrjahid01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrjahid01" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mrjahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrjahid" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/mrjahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mrjahid" height="30" width="40" /></a>
-<a href="https://fb.com/jahidniladri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jahidniladri" height="30" width="40" /></a>
-<a href="https://instagram.com/jahid__bhuiyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jahid__bhuiyan" height="30" width="40" /></a>
+<a href="https://twitter.com/jubair_mahbub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jubair_mahbub" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahsan-mahbub-27735a1b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahsan-mahbub" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mahbub.jubair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahbub.jubair" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_mahbub_jubair/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mahbub_jubair" height="30" width="40" /></a>
 
 </p>
 
@@ -57,9 +55,9 @@ I am a passionate computer science Student. I have been learning programming lan
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrjahid&show_icons=true&locale=en&layout=compact" alt="mrjahid" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahsan-Mahbub&show_icons=true&locale=en&layout=compact" alt="Ahsan-Mahbub" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrjahid&show_icons=true&locale=en" alt="mrjahid" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahsan-Mahbub&show_icons=true&locale=en" alt="Ahsan-Mahbub" /></p>
 
 
 <h3 dir="auto"><a id="user-content---employment-history" class="anchor" aria-hidden="true" href="#--employment-history"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png"><img class="emoji" alt="briefcase" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png"></g-emoji> &nbsp; Employment History</h3>
