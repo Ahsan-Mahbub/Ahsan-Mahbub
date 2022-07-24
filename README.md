@@ -73,9 +73,15 @@ I am a passionate Computer Science Student. I have been learning Programming Lan
 </thead>
 <tbody>
 <tr>
-<td>Frontend Designer</td>
-<td>SoftArch Ltd.</td>
-<td>Sept 2020 – Dec 2021</td>
+<td>Full Stack Developer</td>
+<td>Biz IT BD</td>
+<td>Aug 2021 – Running</td>
+<td>Dhaka, Bangladesh</td>
+</tr>
+<tr>
+<td>Full Stack Developer</td>
+<td>Jibonpata</td>
+<td>Dec 2020 – July 2021</td>
 <td>Dhaka, Bangladesh</td>
 </tr>
 <tr>
@@ -94,30 +100,38 @@ I am a passionate Computer Science Student. I have been learning Programming Lan
 <table>
 <thead>
 <tr>
-<th>Degree</th>
-<th>Department</th>
-<th>Institute</th>
-<th>Location</th>
+<th>Degree Name</th>
+<th>Institute Name</th>
+<th>Major / Group</th>
+<th>CGPA / GPA</th>
+<th>Board</th>
+<th>Passing Year</th>
 </tr>
 </thead>
 <tbody>
   <tr>
-<td>B.Sc.</td>
-<td>Computer Science &amp; Engineering</td>
+<td>B.Sc. in Computer Science &amp; Engineering</td>
 <td>Bangladesh University Of Business and Technology</td>
-<td>Dhaka, Bangladesh</td>
+<td>CSE</td>
+<td>Running</td>
+<td>Dhaka</td>
+<td>Running</td>
 </tr>
 <tr>
 <td>Diploma</td>
-<td>Data Telecomm<sup>n</sup> &amp; Networking Technology</td>
 <td>Feni Computer Institute</td>
-<td>Feni, Bangladesh</td>
+<td>Data Communication &amp; Networking Technology</td>
+<td>3.51</td>
+<td>BTEB</td>
+<td>2020</td>
 </tr>
 <tr>
 <td>SSC</td>
-<td>Science</td>
-<td>Munsirhat Islamia Fazil Madrasah</td>
-<td>Feni, Bangladesh</td>
+<td>Chunua Islamia Dakhil Madrasha</td>
+<td>General</td>
+<td>4.81</td>
+<td>Madrasha Board</td>
+<td>2016</td>
 </tr>
 </tbody>
 </table>
@@ -151,7 +165,7 @@ I am a passionate Computer Science Student. I have been learning Programming Lan
 <hr>
 
 <p dir="auto">Thanks for going through my Portfolio.
-All rights reserved by Anisul Haque Bhuiyan (JAHID) @2022</p>
+All rights reserved by Ahsan Mahbub (Jubair) @2022</p>
 
 <hr>
 
