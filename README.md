@@ -121,9 +121,9 @@ I am a passionate Computer Science Student. I have been learning Programming Lan
 <td>B.Sc. in Computer Science &amp; Engineering</td>
 <td>Bangladesh University Of Business and Technology</td>
 <td>CSE</td>
-<td>Running</td>
+<td>3.35</td>
 <td>Dhaka</td>
-<td>Running</td>
+<td>2024</td>
 </tr>
 <tr>
 <td>Diploma</td>
