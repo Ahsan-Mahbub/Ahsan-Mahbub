@@ -13,9 +13,9 @@ Welcome to my GitHub profile! Here's a glimpse of who I am and what I do.
 </div>
 
 ## 🧑‍💻 About Me
-- 🎓 **Pursuing Computer Science** at **Dhaka International University (DIU)**.  
+- 🎓 **Pursuing Computer Science** at **Bangladesh University of Business and Technology (BUBT)**.  
 - 💼 **Software Engineer** at **[Biz IT BD](https://bizitbd.com)**.  
-- 🌱 Currently **exploring Vue.js** and **database optimization**.  
+- 🌱 Currently **exploring Vue.js** & **Database Optimization** & **Design Patterns** & **Data Structure & Algorithm**.  
 - 🛠️ **Committed to learning, creating, and growing as a developer.**  
 
 ---
@@ -46,17 +46,13 @@ Welcome to my GitHub profile! Here's a glimpse of who I am and what I do.
 ![Atom](https://img.shields.io/badge/-Atom-66595C?logo=atom&logoColor=white&style=for-the-badge) 
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-FF9800?logo=sublime-text&logoColor=white&style=for-the-badge)
 
----
-
 ## 🏆 Achievements
 - 🥇 **Contributed to multiple open-source projects**.  
 - 🌟 **Starred repositories and growing portfolio**.  
 - 🏅 **Participated in coding competitions and hackathons**.  
 
----
-
 ## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsan-mahbub-27735a1b3/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amjubair820@gmail.com)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mahbub.jubair)   
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_mahbub_jubair/)  
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsan-mahbub-27735a1b3/)  
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amjubair820@gmail.com)  
+![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mahbub.jubair)   
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_mahbub_jubair/)  
