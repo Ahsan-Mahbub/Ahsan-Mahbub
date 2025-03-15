@@ -8,8 +8,6 @@
 **Passionate about building efficient, scalable, and innovative web solutions.**  
 Welcome to my GitHub profile! Here's a glimpse of who I am and what I do.  
 
----
-
 </div>
 
 ## 🧑‍💻 About Me
@@ -17,8 +15,6 @@ Welcome to my GitHub profile! Here's a glimpse of who I am and what I do.
 - 💼 **Software Engineer** at **[Biz IT BD](https://bizitbd.com)**.  
 - 🌱 Currently **exploring Vue.js** & **Database Optimization** & **Design Patterns** & **Data Structure & Algorithm**.  
 - 🛠️ **Committed to learning, creating, and growing as a developer.**  
-
----
 
 ## 🚀 Skills & Expertise
 
