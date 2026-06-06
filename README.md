@@ -4,11 +4,11 @@
 
 <div style="font-family: 'Poppins', 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif;">
 
-# Hi there, I'm Ahsan Mahbub 👋 [cite: 2] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there, I'm Ahsan Mahbub 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### 👨‍💻 Full-Stack Software Engineer | PHP & Laravel Specialist [cite: 9, 10]
+### 👨‍💻 Full-Stack Software Engineer | PHP & Laravel Specialist
 
-I am a passionate and results-driven Software Engineer based in Dhaka, Bangladesh[cite: 3, 9]. With over 4 years of professional experience in full-stack web development, I specialize in building scalable web applications, robust e-commerce platforms, complex management systems, and high-performance RESTful APIs using PHP, Laravel, and modern JavaScript ecosystems.
+I am a passionate and results-driven Software Engineer based in Dhaka, Bangladesh. With over 4 years of professional experience in full-stack web development, I specialize in building scalable web applications, robust e-commerce platforms, complex management systems, and high-performance RESTful APIs using PHP, Laravel, and modern JavaScript ecosystems.
 
 <p align="left">
   <a href="https://linkedin.com/in/ahsan-mahbub/ahsan-mahbub" target="_blank">
@@ -63,7 +63,7 @@ I am a passionate and results-driven Software Engineer based in Dhaka, Banglades
 * 🔌 Implemented complex features including custom APIs and third-party integrations.
 * 📊 Optimized complex queries in large-scale databases, improving performance and reducing execution time.
 * 👥 Mentored junior developers and conducted code reviews to maintain quality standards.
-* 🎯 **Project Types:** ERP systems, CRM solutions, POS Solutions, E-commerce platforms, and custom web applications[cite: 16].
+* 🎯 **Project Types:** ERP systems, CRM solutions, POS Solutions, E-commerce platforms, and custom web applications.
 
 ---
 
@@ -79,7 +79,7 @@ I am a passionate and results-driven Software Engineer based in Dhaka, Banglades
   *Developed and maintained a scalable manpower system for handling recruitment, employee records, attendance, payroll, and task tracking.*  `Laravel` `MySQL` `JavaScript` 
 
 * 🛍️ **Inayat Business Solution (E-commerce & POS)** | [Website](https://inayatlighting.com) | [Software](https://soft.inayattrading.com)
-  *Developed a scalable e-commerce platform serving 30k+ consumers and an integrated POS system for comprehensive business management.* [cite: 41] `Laravel` `MySQL` `JavaScript`
+  *Developed a scalable e-commerce platform serving 30k+ consumers and an integrated POS system for comprehensive business management.* `Laravel` `MySQL` `JavaScript`
 
 ---
 
