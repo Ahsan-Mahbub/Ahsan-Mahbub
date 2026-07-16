@@ -1,100 +1,138 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Code Banner" width="100%" />
-</p>
+<div align="center">
 
-<div style="font-family: 'Poppins', 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif;">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph animation" width="100%" />
 
-# Hi there, I'm Ahsan Mahbub 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+web+platforms+since+2022;Laravel+%2F+PHP+%2F+MySQL+%2F+Vue.js;4%2B+years+shipping+production+systems;ERP+%C2%B7+LMS+%C2%B7+E-commerce+%C2%B7+POS&font=Fira+Code&center=true&width=600&height=45&duration=3200&pause=1000&color=61DAFB&vCenter=true&size=18" alt="Typing SVG" />
 
-### 👨‍💻 Full-Stack Software Engineer | PHP & Laravel Specialist
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahsan-mahbub/ahsan-mahbub)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amjubair820@gmail.com)
+[![Location](https://img.shields.io/badge/Dhaka%2C_Bangladesh-2E7D32?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
-I am a passionate and results-driven Software Engineer based in Dhaka, Bangladesh. With over 4 years of professional experience in full-stack web development, I specialize in building scalable web applications, robust e-commerce platforms, complex management systems, and high-performance RESTful APIs using PHP, Laravel, and modern JavaScript ecosystems.
+</div>
 
-<p align="left">
-  <a href="https://linkedin.com/in/ahsan-mahbub/ahsan-mahbub" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:amjubair820@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+<br>
 
----
+👨‍💻 **About Me**
 
-### 🧰 Tech Stack & Tools
+I'm a **Full-Stack Software Engineer** based in Dhaka, Bangladesh, with **4+ years** of experience designing and shipping production-grade web systems. My work centers on **PHP / Laravel**, relational database design, and building APIs and platforms that hold up under real-world scale — e-commerce serving tens of thousands of users, ERP and CRM systems, and multi-tenant management platforms.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /> 
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /> 
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> 
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> 
-  <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" /> 
-  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" /> 
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> 
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> 
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> 
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /> 
-</p>
+What I focus on:
 
-<p align="left">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> 
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> 
-  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /> 
-  <img src="https://img.shields.io/badge/jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" /> 
-  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> 
-  <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" /> 
-  <img src="https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" /> 
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /> 
-</p>
+- 🏗️ **Architecture that scales** — clean separation of concerns, query optimization, and systems built to grow past their first version
+- 🔌 **Integration-heavy platforms** — custom REST APIs, third-party payment/logistics/auth integrations
+- 🧩 **Domain-driven builds** — LMS, school management, workforce/manpower systems, POS & e-commerce
+- 👥 **Team impact** — mentoring, code review, and setting standards that outlast individual features
 
----
+<br>
 
-### 💼 Professional Experience
+🧰 **Tech Stack**
+ 
+**Languages & Frameworks**
+<br><br>
+<img src="https://skillicons.dev/icons?i=php,laravel,js,vue,jquery&theme=dark" alt="Languages & Frameworks" />
+ 
+**Frontend**
+<br><br>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap&theme=dark" alt="Frontend" />
+ 
+**Data & Infrastructure**
+<br><br>
+<img src="https://skillicons.dev/icons?i=mysql,linux,heroku,netlify&theme=dark" alt="Data & Infrastructure" />
+ 
+**Workflow & Tooling**
+<br><br>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,jira,vscode&theme=dark" alt="Workflow & Tooling" />
+ 
+<br>
 
-#### 🚀 **Software Engineer** | Spondon IT 
-*March 2025 – April 2026* 
-* 🛠️ Designed and developed scalable web applications, ensuring high performance
-* 🔌 Implemented complex features including custom APIs and third-party integrations
-* 🎯 **Project Types:** Learning Management System, School Management System, Manpower Management System
+💼 **Professional Experience**
 
-#### 🚀 **Software Engineer** | Biz IT BD 
-*January 2022 – January 2025* 
-* 🛠️ Designed and developed scalable web applications, ensuring high performance and responsiveness.
-* 🔌 Implemented complex features including custom APIs and third-party integrations.
-* 📊 Optimized complex queries in large-scale databases, improving performance and reducing execution time.
-* 👥 Mentored junior developers and conducted code reviews to maintain quality standards.
-* 🎯 **Project Types:** ERP systems, CRM solutions, POS Solutions, E-commerce platforms, and custom web applications.
+**Software Engineer** · Spondon IT
+`March 2025 — April 2026`
 
----
+Designed and developed scalable web applications with a focus on performance, building out custom APIs and third-party integrations across LMS, school management, and manpower management platforms.
 
-### 💻 Highlighted Projects
+<br>
 
-* 🏫 **InfixEdu (School Management System)** | [Website](https://infixedu.ischooll.com/)   
-  *Developed and maintained a scalable School Management System to manage student admissions, class routines, attendance, examinations, results, fees, and communication dashboards.*  `Laravel` `MySQL` `JavaScript`
+**Software Engineer** · Biz IT BD
+`January 2022 — January 2025`
 
-* 📚 **Marfia LMS (Learning Management System)** | [Website](https://levelup.pixelcoder.net/)
-  *Developed a scalable LMS for managing courses, student enrollments, live classes, assignments, quizzes, and progress tracking.*  `Laravel` `MySQL` `React` 
+Delivered ERP, CRM, POS, and e-commerce platforms end-to-end — from API and integration work to query optimization on large-scale databases. Mentored junior developers and led code reviews to keep quality consistent across the team.
 
-* 👥 **Infix Manpower (Workforce Management System)** | [Website](https://infixhub.com/manpower/) 
-  *Developed and maintained a scalable manpower system for handling recruitment, employee records, attendance, payroll, and task tracking.*  `Laravel` `MySQL` `JavaScript` 
+**Key contributions**
+<br>
 
-* 🛍️ **Inayat Business Solution (E-commerce & POS)** | [Website](https://inayatlighting.com) | [Software](https://soft.inayattrading.com)
-  *Developed a scalable e-commerce platform serving 30k+ consumers and an integrated POS system for comprehensive business management.* `Laravel` `MySQL` `JavaScript`
+- Optimized complex, high-volume database queries, meaningfully cutting execution time
+- Built custom REST APIs and third-party integrations for production systems
+- Mentored junior engineers and established code review standards
+- Shipped across ERP, CRM, POS, and e-commerce domains
 
----
 
-### 🎓 Education
+<br><br>
 
-* 🎓 **B.Sc. in Computer Science & Engineering** 
-  Bangladesh University of Business & Technology | *Graduated: 2024* 
+💻 **Highlighted Projects**
 
-* 📜 **Diploma in Data Telecommunication & Networking Technology**
-  Feni Computer Institute | *Graduated: 2020* 
+🏫 **InfixEdu**
+<br>
+*School Management System*
+ 
+Manages student admissions, class routines, attendance, examinations, results, fees, and communication dashboards.
+ 
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+ 
+🔗 [Live Website](https://infixedu.ischooll.com/)
+ 
 
----
+📚**MarfiaLMS**
+<br>
+*Learning Management System*
+ 
+Manages courses, student enrollments, live classes, assignments, quizzes, and progress tracking.
+ 
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+ 
+🔗 [Live Website](https://levelup.pixelcoder.net/)
+ 
+👥 **InfixManpower**
+<br>
+*Workforce Management System*
+ 
+Handles recruitment, employee records, attendance, payroll, and task tracking.
+ 
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+ 
+🔗 [Live Website](https://infixhub.com/manpower/)
+ 
+🛍️ **InayatBusinessSolution**
+<br>
+*E-commerce & POS Platform*
+ 
+A scalable e-commerce platform serving 30k+ consumers with an integrated POS system for full business management.
+ 
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+ 
+🔗 [Store](https://inayatlighting.com) &nbsp;·&nbsp; [POS Software](https://soft.inayattrading.com)
+<br><br>
+ 
 
-<p align="center">
-  <i>Let's build something amazing together!</i><br>
-  📍 Mirpur-1, Dhaka, Bangladesh 🇧🇩 </p>
+🎓 **Education**
+
+| Degree | Institution | Year |
+|---|---|---|
+| B.Sc. in Computer Science & Engineering | Bangladesh University of Business & Technology | 2024 |
+| Diploma in Data Telecommunication & Networking Technology | Feni Computer Institute | 2020 |
+
+
+<div align="center">
+
+<br>
+
+**Open to conversations about backend architecture, Laravel systems, and interesting engineering problems.**
+
+📍 Mirpur-1, Dhaka, Bangladesh 🇧🇩
+
+<br>
+
+<sub>Thanks for stopping by — feel free to reach out via <a href="mailto:amjubair820@gmail.com">email</a> or <a href="https://linkedin.com/in/ahsan-mahbub/ahsan-mahbub">LinkedIn</a>.</sub>
 
 </div>
