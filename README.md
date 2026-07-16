@@ -68,7 +68,7 @@ Delivered ERP, CRM, POS, and e-commerce platforms end-to-end — from API and in
 - Shipped across ERP, CRM, POS, and e-commerce domains
 
 
-<br><br>
+<br>
 
 💻 **Highlighted Projects**
 
