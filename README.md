@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahsan-mahbub/ahsan-mahbub)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amjubair820@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801887747843)
 [![Location](https://img.shields.io/badge/Dhaka%2C_Bangladesh-2E7D32?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
@@ -66,36 +67,56 @@ What I focus on:
 
 💼 **Professional Experience**
 
-**Software Engineer** · Spondon IT
+🏢 **Software Engineer** · Spondon IT
 `March 2025 — April 2026`
 
-Designed and developed scalable web applications with a focus on performance, building out custom APIs and third-party integrations across LMS, school management, and manpower management platforms.
-
-<br>
-
-**Software Engineer** · Biz IT BD
-`January 2022 — January 2025`
-
-Delivered ERP, CRM, POS, and e-commerce platforms end-to-end — from API and integration work to query optimization on large-scale databases. Mentored junior developers and led code reviews to keep quality consistent across the team.
+Architected and optimized high-performance, custom Laravel web modules across Learning Management System (LMS), School Management System, and Manpower Management System platforms — focusing on speed, third-party integrations, and clean backend architecture.
 
 **Key contributions**
+- ⚡ Architected and optimized complex Laravel modules, speeding up page telemetry benchmarks
+- 🔌 Integrated mission-critical third-party payment gateways, SMS engines, and localized digital portals
+- 🔍 Championed backend code reviews and refined Eloquent relationships, eliminating N+1 queries across multi-tenant frameworks
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![REST API](https://img.shields.io/badge/Custom_APIs-6E56CF?style=flat-square&logoColor=white)
+
 <br>
 
-- Optimized complex, high-volume database queries, meaningfully cutting execution time
-- Built custom REST APIs and third-party integrations for production systems
-- Mentored junior engineers and established code review standards
-- Shipped across ERP, CRM, POS, and e-commerce domains
+🏢 **Software Engineer** · Biz IT BD
+`January 2022 — January 2025`
 
+Delivered ERP, CRM, POS, and e-commerce platforms end-to-end — from complex API integrations to query optimization on large-scale databases serving 30k+ consumer portfolios. Mentored junior developers and led code reviews to keep quality consistent across the team.
+
+**Key contributions**
+- 🚀 Optimized long-running queries inside massive MySQL databases, significantly dropping execution times with smart indexing and subquery caching
+- 🔗 Integrated complex ERP APIs to manage concurrent purchase orders, stocks, payrolls, and financial statements for 30k+ consumer portfolios
+- 🎓 Mentored four junior engineering peers on Laravel SOLID patterns, security audits, and defensive testing principles
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![DB Tuning](https://img.shields.io/badge/DB_Indexing_%26_Tuning-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-6E56CF?style=flat-square&logoColor=white)
 
 <br>
 
 💻 **Highlighted Projects**
 
-🏫 **InfixEdu**
-**School Management System**
+🏫 **InfixEdu** — *Enterprise School ERP*
+**Core Backend Developer**
 
-Manages student admissions, class routines, attendance, examinations, results, fees, and communication dashboards.
+A comprehensive, multi-tenant academic and operations platform resolving campus admissions, scheduling, and finance.
 
+**Scaling Insights:**
+- Refactored exam scheduling modules and grade calculations for sub-second database transactions
+- Designed robust communication pipelines (SMS, Email, real-time alerts) bridging parents and staff
+- Formulated strict database procedures and row locking strategies for high-frequency fees collections
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -104,24 +125,37 @@ Manages student admissions, class routines, attendance, examinations, results, f
 
 <br>
 
-📚 **MarfiaLMS**
-**Learning Management System**
+📚 **Brain LMS (Marifa)** — *Education Technology*
+**Software Engineer**
 
-Manages courses, student enrollments, live classes, assignments, quizzes, and progress tracking.
+A highly scalable Learning Management System (LMS) coordinating coursework, interactive tests, and live webinar streams.
 
+**Scaling Insights:**
+- Programmed secure, granular role-based access controls for corporate trainers, instructors, and thousands of students
+- Constructed responsive multi-screen progress monitoring panels and live session calendars
+- Shipped stateful REST APIs connecting third-party assessment engines and quiz engines
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 [![Live Website](https://img.shields.io/badge/🔗_Live_Website-2EA44F?style=for-the-badge&logoColor=white)](https://levelup.pixelcoder.net/)
 
 <br>
 
-👥 **InfixManpower**
-**Workforce Management System**
+👥 **Infix Manpower** — *Global Workforce ERP*
+**Software Engineer**
 
-Handles recruitment, employee records, attendance, payroll, and task tracking.
+A modern, secure manpower and workforce recruiting asset consolidating international employee profiles and live compliance tracking.
 
+**Scaling Insights:**
+- Configured secure digital asset vaults for candidate records, payroll processing, and attendance
+- Created granular custom filters enabling recruitment agencies to match skills matrices instantaneously
+- Streamlined business processes and HR operations via automated task tracking matrices
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -130,27 +164,98 @@ Handles recruitment, employee records, attendance, payroll, and task tracking.
 
 <br>
 
-🛍️ **InayatBusinessSolution**
-**E-commerce & POS Platform**
+🛋️ **Biz Interior Software** — *Design ERP Application*
+**Lead Backend Developer**
 
-A scalable e-commerce platform serving 30k+ consumers with an integrated POS system for full business management.
+A dedicated, high-performance interior architecture software suite regulating 3D asset catalogs, user quotas, vendor invoicing, and project lifecycles.
 
+**Scaling Insights:**
+- Architected material calculation ledgers and measurement estimation automation engines
+- Constructed highly structured database schema configurations on MySQL to ensure transactional durability
+- Designed executive reporting dashboards showing client design progress milestone tracking and real-time ledger records
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+<br>
+
+🛍️ **Inayat Business Solution** — *Multi-Channel Commerce*
+**Full Stack Architect**
+
+A massive custom e-commerce engine operating in unison with a robust real-time Point of Sale (POS) workspace, serving 30k+ active consumers.
+
+**Scaling Insights:**
+- Constructed modular subsystems for managing Purchases, Sales, Collections, and Employee Payroll
+- Integrated POS hardware tracking, inventory management systems, and ledger accounting streams
+- Served custom high-performance customer frontends representing over 30k+ active consumers
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 [![Store](https://img.shields.io/badge/🛒_Store-2EA44F?style=for-the-badge&logoColor=white)](https://inayatlighting.com) &nbsp; [![POS Software](https://img.shields.io/badge/💳_POS_Software-2EA44F?style=for-the-badge&logoColor=white)](https://soft.inayattrading.com)
+
+<br>
+
+📈 **Sohoj Affiliates** — *High Transaction Scale*
+**Lead Backend Developer**
+
+An enterprise-grade affiliate marketing platform built on PHP & Laravel serving as the sales gateway for Sohojbuy products.
+
+**Scaling Insights:**
+- Engineered an isolated commission allocation engine with transactions throughput checks
+- Developed real-time referral chain tracking algorithms to secure payout validations
+- Optimized backend query structures to feed analytics dashboards representing 37k+ active users
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+<br>
+
+🧠 **Deep Learning & AI Research**
+
+🧬 Hair Multinet
+**ML / AI Researcher**
+
+A state-of-the-art multi-scale feature fusion model designed for accurate hair density segmentation and structural analysis utilizing a Deep Learning approach.
+
+**Scaling Insights:**
+- Engineered a highly sophisticated Multi-Scale Feature Fusion architecture utilizing Python 3.10 and TensorFlow 2.0 to capture macro & micro hair patterns
+- Structured custom deep neural network training pipelines executed within Kaggle Kernels on T4 GPU systems for supercharged computation
+- Configured model optimization hyperparameter routines, validating state-of-the-art segmentation accuracy metrics over test benches
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle_Kernel-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
+![CNN](https://img.shields.io/badge/Convolutional_Networks-4B0082?style=flat-square&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-8A2BE2?style=flat-square&logoColor=white)
 
 <br>
  
 
 🎓 **Education**
 
-| Degree | Institution | Year |
-|---|---|---|
-| B.Sc. in Computer Science & Engineering | Bangladesh University of Business & Technology | 2024 |
-| Diploma in Data Telecommunication & Networking Technology | Feni Computer Institute | 2020 |
+**B.Sc. in Computer Science & Engineering**
+<br>
+Bangladesh University of Business & Technology
+<br>
+🗓️ 2024 &nbsp;·&nbsp; 🎯 CGPA: 3.35
 
+<br>
+
+**Diploma in Data Telecommunication & Networking Technology**
+<br>
+Feni Computer Institute
+<br>
+🗓️ 2020 &nbsp;·&nbsp; 🎯 CGPA: 3.51
 
 <div align="center">
 
