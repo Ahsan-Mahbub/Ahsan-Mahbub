@@ -26,23 +26,42 @@ What I focus on:
 <br>
 
 🧰 **Tech Stack**
- 
+
 **Languages & Frameworks**
 <br><br>
-<img src="https://skillicons.dev/icons?i=php,laravel,js,vue,jquery&theme=dark" alt="Languages & Frameworks" />
- 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Ajax](https://img.shields.io/badge/Ajax-1E90FF?style=for-the-badge&logo=javascript&logoColor=white)
+
 **Frontend**
 <br><br>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap&theme=dark" alt="Frontend" />
- 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 **Data & Infrastructure**
 <br><br>
-<img src="https://skillicons.dev/icons?i=mysql,linux,heroku,netlify&theme=dark" alt="Data & Infrastructure" />
- 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
 **Workflow & Tooling**
 <br><br>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,jira,vscode&theme=dark" alt="Workflow & Tooling" />
- 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-6E56CF?style=for-the-badge&logoColor=white)
 <br>
 
 💼 **Professional Experience**
@@ -73,46 +92,56 @@ Delivered ERP, CRM, POS, and e-commerce platforms end-to-end — from API and in
 💻 **Highlighted Projects**
 
 🏫 **InfixEdu**
-<br>
-*School Management System*
- 
-Manages student admissions, class routines, attendance, examinations, results, fees, and communication dashboards.
- 
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
- 
-🔗 [Live Website](https://infixedu.ischooll.com/)
- 
+**School Management System**
 
-📚**MarfiaLMS**
+Manages student admissions, class routines, attendance, examinations, results, fees, and communication dashboards.
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+[![Live Website](https://img.shields.io/badge/🔗_Live_Website-2EA44F?style=for-the-badge&logoColor=white)](https://infixedu.ischooll.com/)
+
 <br>
-*Learning Management System*
- 
+
+📚 **MarfiaLMS**
+**Learning Management System**
+
 Manages courses, student enrollments, live classes, assignments, quizzes, and progress tracking.
- 
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
- 
-🔗 [Live Website](https://levelup.pixelcoder.net/)
- 
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+[![Live Website](https://img.shields.io/badge/🔗_Live_Website-2EA44F?style=for-the-badge&logoColor=white)](https://levelup.pixelcoder.net/)
+
+<br>
+
 👥 **InfixManpower**
-<br>
-*Workforce Management System*
- 
+**Workforce Management System**
+
 Handles recruitment, employee records, attendance, payroll, and task tracking.
- 
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
- 
-🔗 [Live Website](https://infixhub.com/manpower/)
- 
-🛍️ **InayatBusinessSolution**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+[![Live Website](https://img.shields.io/badge/🔗_Live_Website-2EA44F?style=for-the-badge&logoColor=white)](https://infixhub.com/manpower/)
+
 <br>
-*E-commerce & POS Platform*
- 
+
+🛍️ **InayatBusinessSolution**
+**E-commerce & POS Platform**
+
 A scalable e-commerce platform serving 30k+ consumers with an integrated POS system for full business management.
- 
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
- 
-🔗 [Store](https://inayatlighting.com) &nbsp;·&nbsp; [POS Software](https://soft.inayattrading.com)
-<br><br>
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+[![Store](https://img.shields.io/badge/🛒_Store-2EA44F?style=for-the-badge&logoColor=white)](https://inayatlighting.com) &nbsp; [![POS Software](https://img.shields.io/badge/💳_POS_Software-2EA44F?style=for-the-badge&logoColor=white)](https://soft.inayattrading.com)
+
+<br>
  
 
 🎓 **Education**
@@ -133,6 +162,6 @@ A scalable e-commerce platform serving 30k+ consumers with an integrated POS sys
 
 <br>
 
-<sub>Thanks for stopping by — feel free to reach out via <a href="mailto:amjubair820@gmail.com">email</a> or <a href="https://linkedin.com/in/ahsan-mahbub/ahsan-mahbub">LinkedIn</a>.</sub>
+Thanks for stopping by — feel free to reach out via <a href="mailto:amjubair820@gmail.com">email</a> or <a href="https://linkedin.com/in/ahsan-mahbub/ahsan-mahbub">LinkedIn</a>.
 
 </div>
